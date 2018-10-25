@@ -1,0 +1,3 @@
+Total number of words in Tree are: 14
+Number of Characters are: 40
+Number of Distinct words are: 7
